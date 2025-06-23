@@ -1,6 +1,6 @@
 # Syllabus-Bot
 
-Chatbot thông minh giúp sinh viên và giảng viên tra cứu thông tin chi tiết trong đề cương môn học của trường Đại học Văn Lang.
+Chatbot thông minh giúp sinh viên và giảng viên tra cứu thông tin chi tiết trong đề cương môn học Khoa Công nghệ thông Tin.
 
 Dự án cung cấp một bộ công cụ hoàn chỉnh cho cả người dùng cuối và quản trị viên.
 
