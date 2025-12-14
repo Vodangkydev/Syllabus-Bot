@@ -1,5 +1,10 @@
 # Syllabus-Bot
 
+<img width="1161" height="662" alt="image" src="https://github.com/user-attachments/assets/5b9aa536-3fee-43af-984f-470d396397b8" />
+<img width="1162" height="661" alt="image" src="https://github.com/user-attachments/assets/676b5f49-244f-4f0b-a3ed-4592be836677" />
+
+<img width="1165" height="660" alt="image" src="https://github.com/user-attachments/assets/fa364220-a9be-4fe6-b340-844295bf1824" />
+
 Chatbot thông minh giúp sinh viên và giảng viên tra cứu thông tin chi tiết trong đề cương môn học Khoa Công nghệ thông Tin.
 
 Dự án cung cấp một bộ công cụ hoàn chỉnh cho cả người dùng cuối và quản trị viên.
